@@ -1,0 +1,36 @@
+Initial Betting Amount: 4000
+Round 1
+Bet: 4000
+Your Initial Hand Include: 
+King of Hearts
+Ace of Spades
+
+The Dealer's Initial Hand Include: 
+Six of Spades
+Jack of Hearts
+
+
+You Chose To Stand
+
+The Dealer Dealt Themself the Queen of Hearts
+
+
+              FINAL HANDS
+
+                Your Hand
+King of Hearts
+Ace of Spades
+With A Total Value of: 21
+
+            Dealer's Hand
+Six of Spades
+Jack of Hearts
+Queen of Hearts
+With A Total Value of: 26
+
+The Dealer's Hand Went Over 21.
+You Won: 8000
+Your New Total Was Now: 8000
+
+You Chose To Play Again.
+
