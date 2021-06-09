@@ -1,0 +1,37 @@
+Initial Betting Amount: 4000
+Round 1
+Bet: 3000
+Your Initial Hand Include: 
+Nine of Clubs
+Ten of Spades
+
+The Dealer's Initial Hand Include: 
+Nine of Spades
+Five of Hearts
+
+
+You Chose To Stand
+
+The Dealer Dealt Themself the Three of Spades
+
+The Dealer Dealt Themself the Ace of Clubs
+
+
+              FINAL HANDS
+
+                Your Hand
+Nine of Clubs
+Ten of Spades
+With A Total Value of: 19
+
+            Dealer's Hand
+Nine of Spades
+Five of Hearts
+Three of Spades
+Ace of Clubs
+With A Total Value of: 28
+
+The Dealer's Hand Went Over 21.
+You Won: 6000
+Your New Total Was Now: 7000
+
